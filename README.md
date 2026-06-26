@@ -1,8 +1,6 @@
 # SysInfo — Nintendo Switch Homebrew
 
-Nyx-inspired system information viewer. Pulls everything: firmware, Atmosphere
-version, hardware model, emummc status, battery, network, storage, clocks, temps,
-device nickname, accounts, and more.
+stuff
 
 ---
 
@@ -30,7 +28,7 @@ make
 # Output: sysinfo.nro
 ```
 
-The `.nro` goes in `/switch/sysinfo/sysinfo.nro` on your SD card.
+The `.nro` goes in `/switch/sysinfo.nro` on your SD card.
 
 ---
 
